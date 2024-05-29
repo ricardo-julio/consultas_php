@@ -12,7 +12,7 @@
 
 require "conexion.php"; 
 
-$sql="SELECT * FROM `empleado` WHERE 1"; 
+$sql="SELECT * FROM `TABLE_NAME` WHERE 1"; 
 
 $respuesta=mysqli_query($con,$sql); //relizar Query  
 

@@ -12,7 +12,7 @@
 
 require "conexion.php"; 
 
-$sql="SELECT * FROM `cliente` WHERE 1"; 
+$sql="SELECT * FROM `CONSTRAINT_CATALOG` WHERE 1"; 
 
 $respuesta=mysqli_query($con,$sql); //relizar Query  
 

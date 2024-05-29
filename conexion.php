@@ -8,7 +8,7 @@ $username = "root";
 
 $password = ""; 
 
-$database = "jardineria"; 
+$database = "information_schema"; 
 
 // Creamos la conexion con MySQL 
 
